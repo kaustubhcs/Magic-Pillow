@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC07D0554694100DB518D /* VuforiaMedia */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* VuforiaMedia */,
+		);
+		codeSenseManager = F7FD6EE0152D34B8003FAA87 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					444,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355293439;
+			PBXWorkspaceStateSaveDate = 355293439;
+		};
+		perUserProjectItems = {
+			F7466C49152D594D00AFEF41 /* PBXTextBookmark */ = F7466C49152D594D00AFEF41 /* PBXTextBookmark */;
+			F7466C4A152D594D00AFEF41 /* PBXTextBookmark */ = F7466C4A152D594D00AFEF41 /* PBXTextBookmark */;
+			F7466C4B152D594D00AFEF41 /* PBXTextBookmark */ = F7466C4B152D594D00AFEF41 /* PBXTextBookmark */;
+			F7466C51152D594D00AFEF41 /* PBXTextBookmark */ = F7466C51152D594D00AFEF41 /* PBXTextBookmark */;
+			F7466C52152D594D00AFEF41 /* PBXTextBookmark */ = F7466C52152D594D00AFEF41 /* PBXTextBookmark */;
+			F7466C53152D594D00AFEF41 /* PBXTextBookmark */ = F7466C53152D594D00AFEF41 /* PBXTextBookmark */;
+			F7FD6F33152D3DE9003FAA87 /* PBXTextBookmark */ = F7FD6F33152D3DE9003FAA87 /* PBXTextBookmark */;
+			F7FD6F35152D3DE9003FAA87 /* PBXTextBookmark */ = F7FD6F35152D3DE9003FAA87 /* PBXTextBookmark */;
+			F7FD70A2152D587E003FAA87 /* PBXTextBookmark */ = F7FD70A2152D587E003FAA87 /* PBXTextBookmark */;
+			F7FD70A3152D587E003FAA87 /* PBXTextBookmark */ = F7FD70A3152D587E003FAA87 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F7FD6EDF152D34B8003FAA87 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D2AAC07D0554694100DB518D /* VuforiaMedia */ = {
+		activeExec = 0;
+	};
+	F7466C3D152D590C00AFEF41 /* VideoPlayerWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 767}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1401}";
+		};
+	};
+	F7466C49152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7466C3D152D590C00AFEF41 /* VideoPlayerWrapper.h */;
+		name = "VideoPlayerWrapper.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 0;
+	};
+	F7466C4A152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6EE9152D350F003FAA87 /* VideoPlayerHelper.m */;
+		name = "VideoPlayerHelper.m: 223";
+		rLen = 10;
+		rLoc = 6615;
+		rType = 0;
+		vrLen = 1259;
+		vrLoc = 5988;
+	};
+	F7466C4B152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6EEA152D350F003FAA87 /* VideoPlayerHelper.h */;
+		name = "VideoPlayerHelper.h: 46";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 0;
+	};
+	F7466C51152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6EEA152D350F003FAA87 /* VideoPlayerHelper.h */;
+		name = "VideoPlayerHelper.h: 46";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 0;
+	};
+	F7466C52152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6EE9152D350F003FAA87 /* VideoPlayerHelper.m */;
+		name = "VideoPlayerHelper.m: 1191";
+		rLen = 18;
+		rLoc = 39287;
+		rType = 0;
+		vrLen = 2053;
+		vrLoc = 33169;
+	};
+	F7466C53152D594D00AFEF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7466C54152D594D00AFEF41 /* build_qcar_and_apps.bash */;
+		name = "build_qcar_and_apps.bash: 30";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 2016;
+		vrLoc = 1775;
+	};
+	F7466C54152D594D00AFEF41 /* build_qcar_and_apps.bash */ = {
+		isa = PBXFileReference;
+		name = build_qcar_and_apps.bash;
+		path = /Users/kspreen/Development/Qualcomm/svn/OpenAR_iOS/build_qcar_and_apps.bash;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 2184}}";
+			sepNavSelRange = "{828, 0}";
+			sepNavVisRange = "{1775, 2016}";
+			sepNavWindowFrame = "{{15, 85}, {1158, 1090}}";
+		};
+	};
+	F7FD6EDF152D34B8003FAA87 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F7FD6EE0152D34B8003FAA87 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F7FD6EE9152D350F003FAA87 /* VideoPlayerHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 16688}}";
+			sepNavSelRange = "{39287, 18}";
+			sepNavVisRange = "{33169, 2053}";
+			sepNavWindowFrame = "{{365, 88}, {1158, 1090}}";
+		};
+	};
+	F7FD6EEA152D350F003FAA87 /* VideoPlayerHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {492, 1848}}";
+			sepNavSelRange = "{812, 0}";
+			sepNavVisRange = "{644, 322}";
+			sepNavWindowFrame = "{{1054, 88}, {1158, 1090}}";
+		};
+	};
+	F7FD6F33152D3DE9003FAA87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6F34152D3DE9003FAA87 /* qcar_unity_ios_rules.xml */;
+		name = "qcar_unity_ios_rules.xml: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	F7FD6F34152D3DE9003FAA87 /* qcar_unity_ios_rules.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = qcar_unity_ios_rules.xml;
+		path = /Users/kspreen/Development/Qualcomm/svn/Unity_Cake/QCARUnityPlayer/iOS/qcar_unity_ios_rules.xml;
+		sourceTree = "<absolute>";
+	};
+	F7FD6F35152D3DE9003FAA87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6F36152D3DE9003FAA87 /* build.sh */;
+		name = "build.sh: 36";
+		rLen = 0;
+		rLoc = 1879;
+		rType = 0;
+		vrLen = 1879;
+		vrLoc = 0;
+	};
+	F7FD6F36152D3DE9003FAA87 /* build.sh */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.sh;
+		name = build.sh;
+		path = /Users/kspreen/Development/Qualcomm/svn/Unity_iOS/build.sh;
+		sourceTree = "<absolute>";
+	};
+	F7FD70A2152D587E003FAA87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD6EE9152D350F003FAA87 /* VideoPlayerHelper.m */;
+		name = "VideoPlayerHelper.m: 1191";
+		rLen = 18;
+		rLoc = 39287;
+		rType = 0;
+		vrLen = 1960;
+		vrLoc = 33223;
+	};
+	F7FD70A3152D587E003FAA87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7FD70A4152D587E003FAA87 /* build_qcar_and_apps.bash */;
+		name = "build_qcar_and_apps.bash: 30";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 1947;
+		vrLoc = 1844;
+	};
+	F7FD70A4152D587E003FAA87 /* build_qcar_and_apps.bash */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.sh;
+		name = build_qcar_and_apps.bash;
+		path = /Users/kspreen/Development/Qualcomm/svn/OpenAR_iOS/build_qcar_and_apps.bash;
+		sourceTree = "<absolute>";
+	};
+}
